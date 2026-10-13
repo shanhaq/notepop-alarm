@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NotePop</string>
+    <string name="add_note">Add Note</string>
+    <string name="note_hint">Write your note...</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="set_alarm">Set Alarm</string>
+    <string name="clear_alarm">Clear Alarm</string>
+    <string name="alarm_sound">Alarm Sound</string>
+    <string name="choose_sound">Choose custom sound</string>
+    <string name="no_notes_yet">No notes yet — tap + to write your first one</string>
+    <string name="later">Later</string>
+    <string name="open">Open</string>
+    <string name="next_note">Next</string>
+    <string name="stop_alarm">Stop</string>
+    <string name="notification_channel_alarm">NotePop Alarms</string>
+</resources>
